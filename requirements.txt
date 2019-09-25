@@ -1,0 +1,9 @@
+python==2.7
+torch
+torchvision==0.2.1
+scipy
+scikit-learn
+matplotlib
+scikit-image
+jupyter
+pywt

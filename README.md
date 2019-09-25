@@ -4,7 +4,7 @@ Here are a few example results:
 
 MNIST at 75 measurements                 | X-ray at 2000 measurements
 -----------------------------------------|-----------------------------------------
-<img src="https://github.com/davevanveen/compsensing_dip/blob/master/reconstructions/mnist/samp_recons_m75.png" alt="mnist_reconstr" width="400"> | <img src="https://github.com/davevanveen/compsensing_dip/blob/master/reconstructions/xray/samp_recons_x2000.png" alt="mnist_reconstr" width="400">
+<img src="https://github.com/anon-iclr/csdip-iclr/blob/master/reconstructions/mnist/samp_recons_m75.png" alt="mnist_reconstr" width="400"> | <img src="https://github.com/anon-iclr/csdip-iclr/blob/master/reconstructions/xray/samp_recons_x2000.png" alt="mnist_reconstr" width="400">
       
 
 ### Preliminaries

@@ -12,7 +12,7 @@ MNIST at 75 measurements                 | X-ray at 2000 measurements
 
 1. Clone the repository
     ```shell
-    $ git clone https://github.com/davevanveen/csdip-iclr.git
+    $ git clone https://github.com/anon-iclr/csdip-iclr.git
     $ cd csdip-iclr
     ```
     Please run all commands from the root directory of the repository, i.e from ```csdip-iclr/```
